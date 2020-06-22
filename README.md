@@ -4,7 +4,7 @@ This SVG repository is used to deposit annotated SVGs (aSVGs) made by the [spati
 
 Guidelines to deposit aSVGs:
 
-1. Name aSVG files according to the schme: `<species>[.view]_shm.svg` (e.g. `arabidopsis_thaliana.organ_shm.svg`), which is modified from [EBI Gene Expression Group](https://github.com/ebi-gene-expression-group/anatomogram/tree/master/src/svg).
+1. Name aSVG files according to the scheme: `<species>[.view]_shm.svg` (e.g. `arabidopsis_thaliana.organ_shm.svg`), which is modified from [EBI Gene Expression Group](https://github.com/ebi-gene-expression-group/anatomogram/tree/master/src/svg).
 
 2. Make a subfolder in `spatialHeatmap_aSVG_Repository`, e.g. `ucr`.  
 
