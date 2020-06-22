@@ -1,0 +1,9 @@
+*~
+*.swp
+tmp/
+*.ps$
+*.ps.xml$
+*.html
+!shinyApp/file/*
+rsconnect/
+local_mode_result/
