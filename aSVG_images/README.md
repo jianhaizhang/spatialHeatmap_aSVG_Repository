@@ -1,6 +1,6 @@
 Guidelines on depositing aSVGs:
 
-a. Name aSVG files according to the scheme: `<species>_[view]_shm.svg` (*e.g.* `arabidopsis.thaliana_organ_shm.svg`), which is modified from [EBI Gene Expression Group](https://github.com/ebi-gene-expression-group/anatomogram/tree/master/src/svg){:target="_blank"}. If multiple aSVG files represent different development stages respectively and are used in the same function call, their suffixes should be `_shm1`, `_shm2`, *etc*. so as to specify their order.  *E.g.* `arabidopsis.thaliana_organ_shm1.svg`, `arabidopsis.thaliana_organ_shm2.svg`.  
+a. Name aSVG files according to the scheme: `<species>_[view]_shm.svg` (*e.g.* `arabidopsis.thaliana_organ_shm.svg`), which is modified from [EBI Gene Expression Group](https://github.com/ebi-gene-expression-group/anatomogram/tree/master/src/svg). If multiple aSVG files represent different development stages respectively and are used in the same function call, their suffixes should be `_shm1`, `_shm2`, *etc*. so as to specify their order.  *E.g.* `arabidopsis.thaliana_organ_shm1.svg`, `arabidopsis.thaliana_organ_shm2.svg`.  
 
 b. Deposit aSVG files in this fodler and include author(s) information, citation format, metadata (description of spatial features), *etc*. of these aSVG files in the `README.md` as shown below.
 
